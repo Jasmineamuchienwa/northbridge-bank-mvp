@@ -55,7 +55,7 @@ An admin user can:
 * Do everything a normal user can
 * View system activity records (audit logs)
 
-Admins are **restricted and monitored** — even their actions are recorded.
+Admins are **restricted and monitored** - even their actions are recorded.
 
 ---
 
@@ -75,7 +75,7 @@ If the password is wrong:
 
 Passwords are **never stored in readable form**.
 
----
+
 
 ### Permissions
 
@@ -86,7 +86,7 @@ The system checks:
 
 This stops users from accessing things they are not allowed to see.
 
----
+
 
 ###  Money Rules
 
@@ -101,7 +101,7 @@ If a rule is broken:
 * the action is stopped
 * the attempt is recorded
 
----
+
 
 ## What is an audit log?
 
@@ -120,7 +120,7 @@ This is important because banks must be able to:
 * detect misuse
 * prove accountability
 
----
+
 
 ## What actions are recorded?
 
@@ -135,7 +135,7 @@ The system records:
 
 Nothing important happens **without being recorded**.
 
----
+
 
 ## Why is this useful?
 
